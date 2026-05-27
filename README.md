@@ -41,19 +41,19 @@ Text
 ### The app supports text input and converts into QR:
 ![example pic](Images/pic2.png)
 
-### When clicked on QR to Text Button it prompts the user to select a PNG file of the QR
+### When clicked on QR to Text Button it prompts the user to select a PNG file of the QR:
 ![example pic](Images/pic3.png)
 
 
-### After selecting the desired PNG it converts it to text 
+### After selecting the desired PNG it converts it to text :
 ![example pic](Images/pic4.png)
 
 
-### When the download button is clicked the user is prompted to select their desired destination to save the png file
+### When the download button is clicked the user is prompted to select their desired destination to save the png file:
 ![example pic](Images/pic5.png)
 
 
-### The app allows large amounts of text to be converted into spectrum QR: this is an example of 1000-word essay
+### The app allows large amounts of text to be converted into spectrum QR; this is an example of 1000-word essay:
 ![example pic](Images/pic6.png)
 
 
