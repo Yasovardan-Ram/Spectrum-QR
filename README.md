@@ -37,25 +37,23 @@ Text
 pip install numpy pillow customtkinter
 ```
 
-## 9. Add Usage Section
-
-```markdown id="h8ncr7"
-```
-
 ## Usage
 
 ```bash
 run.py
-```
-
----
-
-# 10. Add Project Status
-
-```markdown id="kjy0u8"
 ```
 ## Project Status
 
 Version 1 prototype completed.
 
 Current implementation supports PNG-based encoding and decoding under controlled conditions.
+
+## Planned Features
+
+- OpenCV live scanning
+- Orientation markers
+- Perspective correction
+- Error correction
+- Real-time decoding
+
+
