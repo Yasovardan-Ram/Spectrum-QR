@@ -21,3 +21,12 @@ Text
 → Numerical states
 → RGB matrix
 → PNG image
+
+## Color Mapping
+
+| Bits | Value | Color |
+|------|------|------|
+| 00 | 0 | Black |
+| 01 | 1 | Red |
+| 10 | 2 | Green |
+| 11 | 3 | Blue |
