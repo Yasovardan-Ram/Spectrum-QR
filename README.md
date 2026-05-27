@@ -47,3 +47,15 @@ pip install numpy pillow customtkinter
 ```bash
 run.py
 ```
+
+---
+
+# 10. Add Project Status
+
+```markdown id="kjy0u8"
+```
+## Project Status
+
+Version 1 prototype completed.
+
+Current implementation supports PNG-based encoding and decoding under controlled conditions.
