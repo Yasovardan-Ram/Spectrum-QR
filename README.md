@@ -31,6 +31,10 @@ Text
 | 10 | 2 | Green |
 | 11 | 3 | Blue |
 
+##Features
+
+![example pic](Images/pic3.png)
+
 ## Installation
 
 ```bash
