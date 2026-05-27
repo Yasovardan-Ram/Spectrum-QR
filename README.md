@@ -35,13 +35,15 @@ Text
 
 ```bash
 pip install numpy pillow customtkinter
+```
 
----
-
-# 9. Add Usage Section
+## 9. Add Usage Section
 
 ```markdown id="h8ncr7"
+```
+
 ## Usage
 
 ```bash
-python encoder.py
+run.py
+```
