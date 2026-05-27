@@ -30,3 +30,8 @@ Text
 | 01 | 1 | Red |
 | 10 | 2 | Green |
 | 11 | 3 | Blue |
+
+## Installation
+
+```bash
+pip install numpy pillow customtkinter
