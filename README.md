@@ -60,6 +60,10 @@ Text
 ### The app allow the use of various symbols:
 ![example pic](Images/pic7.png)
 
+### The downloaded QR image:
+![example pic](Images/qr.png)
+
+
 
 
 ## Installation
