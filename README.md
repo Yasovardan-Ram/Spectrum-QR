@@ -1,4 +1,9 @@
 # Spectrum-QR
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=00FF7F&center=true&vCenter=true&width=800&lines=Spectrum-QR;Beyond+binary.+Into+spectrum.;Where+spectrum+becomes+structure." />
+</p>
+
 An experimental color-based QR-like encoding system using multistate RGB modules for higher-density visual data storage.
 
 ## Preview
